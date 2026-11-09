@@ -1,7 +1,7 @@
 # 📊 Qualidade de Software – Avaliação de Qualidade
 
 ## 📌 Sobre o Projeto
-Repositório destinado a reunir atividades acadêmicas desenvolvidas na disciplina de Qualidade de Software no segundo semestre, com foco na elaboração de uma planilha com parâmetros de avaliação de qualidade de software.
+Repositório destinado a reunir atividade acadêmica desenvolvida na disciplina de Qualidade de Software no segundo semestre, com foco na elaboração de uma planilha com parâmetros de avaliação de qualidade de software.
 
 O trabalho foi desenvolvido em dupla e envolveu a organização dos critérios de avaliação, análise dos parâmetros e preparação de uma apresentação para exposição do projeto ao professor.
 
